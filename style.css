@@ -1,5 +1,24 @@
+h1 {text-align: center;
+}
+
+nav a {padding: 10px;
+  color: green;
+}
+nav {text-align: center;
+}
+#featured-property {text-align: center;
+}
+p#featured-property {width: 800px;
+  text-align: center;
+}
+#details {background-color: #ff0000;
+}
+details {text-align: horizontal;
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+figure p {text-align: center;
 }
